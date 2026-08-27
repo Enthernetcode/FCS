@@ -1,18 +1,33 @@
-# Full Cell Sufficiency website
+# Full Cell Sufficiency (FCS)
 
-Branded research website for **Renuel Roberts / EnthernetCode**, built from all eight supplied FCS/UCCSL documents.
+**Full Cell Sufficiency (FCS)** is a conceptual, hypothesis-driven research framework by **Renuel Roberts / EnthernetCode** exploring cellular communication, synchronization, cellular memory retention, coordinated repair, resource sufficiency, tissue remodeling, mitosis, wound healing, controlled regeneration, and native biological guardrails.
 
-## Open locally
-Open `index.html` in a browser. No build step or external dependencies are required.
+The public research site is **https://fcs.enthernet.com/**.
 
-## Structure
-- `index.html` — site content and semantic structure
-- `styles.css` — responsive design system
-- `script.js` — animated cellular-network background, reveal effects, mobile navigation
-- `docs/` — all eight supplied source PDFs, renamed for clean web links
+The framework includes **UCCSL — Universal Cellular Communication & Synchronization Layer** and **UCCSL-Adapt**, which explore a conceptual shared communication, routing, timing and consensus layer built around native biological signaling mechanisms.
+
+## Research identity
+
+- **Name:** Full Cell Sufficiency
+- **Abbreviation:** FCS
+- **Researcher:** Renuel Roberts
+- **Research identity:** EnthernetCode / Enthernet
+- **Primary site:** https://fcs.enthernet.com/
+- **Repository:** Enthernetcode/FCS
+- **Related concepts:** UCCSL, UCCSL-Adapt, cellular communication, cell signaling, mitosis, wound healing, tissue remodeling, resource sufficiency, controlled regeneration
+
+## Website structure
+
+- `index.html` — Full Cell Sufficiency research site and semantic content
+- `seo.js` — entity, canonical, Open Graph and structured-data definitions
+- `sitemap.xml` — search-engine sitemap
+- `robots.txt` — crawler discovery and sitemap declaration
+- `CONTENT_MAP.md` — research-content mapping
 
 ## Publishing
-Upload the folder as-is to GitHub Pages, Netlify, Vercel static hosting, Cloudflare Pages, or any standard web server.
+
+The repository is published as a static site at https://fcs.enthernet.com/.
 
 ## Research status
-The site explicitly presents the documents as a conceptual / hypothesis-driven framework and not as established clinical evidence or medical guidance.
+
+Full Cell Sufficiency is presented as a **conceptual / hypothesis-driven research framework**, not established clinical evidence, medical guidance, or a validated treatment protocol. The project separates established biological mechanisms from proposed FCS/UCCSL interpretations and research hypotheses.
