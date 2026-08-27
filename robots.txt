@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fcs.enthernet.com/sitemap.xml
+
+# Full Cell Sufficiency (FCS) research site by Renuel Roberts / Enthernet.
